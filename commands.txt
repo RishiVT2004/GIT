@@ -33,3 +33,4 @@
 21. git stash apply <stashname> -> apply the required stash
 
 22. git restore <filename> -> get backs to the last commit version 
+git commit -am -: Adding and commiting
