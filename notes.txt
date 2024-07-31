@@ -37,3 +37,4 @@ Git Rebase
 -> Need to be cautious while using 
 -> Alternate way of merging branches 
 -> If you are on main/master branch never run this command 
+-> during confilct -> manually add the files , and then run git rebase continue 
