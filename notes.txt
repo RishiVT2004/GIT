@@ -32,3 +32,8 @@ Stashing
 
 while working on a branch if we want to switch to another branch we can't do it without commiting our changes 
 * conflicting changes do not allow to switch branch w/o conflicts 
+
+Git Rebase
+-> Need to be cautious while using 
+-> Alternate way of merging branches 
+-> If you are on main/master branch never run this command 
